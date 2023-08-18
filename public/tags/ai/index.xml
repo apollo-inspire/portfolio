@@ -1,0 +1,72 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Lucas` Portfolio Website</title>
+	<link>http://example.org/tags/ai/</link>
+	<description>Recent content in AI on Lucas` Portfolio Website</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Fri, 18 Aug 2023 19:03:52 +0200</lastBuildDate>
+    
+        <atom:link href="http://example.org/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>GewoonLezen</title>
+		<link>http://example.org/cmgt/gewoonlezen/</link>
+		<pubDate>Fri, 18 Aug 2023 19:03:52 +0200</pubDate>
+		
+		<guid>http://example.org/cmgt/gewoonlezen/</guid>
+		<description>&lt;p&gt;Task: UX-Designer, Wedevelopment &amp;amp; Writing&lt;br&gt;
+Client/Organisation: Personal&lt;br&gt;
+Date: 2022 - Now&lt;br&gt;
+Location: Randstad&lt;br&gt;
+Link: &lt;a href=&#34;https://luukftf.github.io/portfolio-onepager&#34;&gt;https://luukftf.github.io/portfolio-onepager&lt;/a&gt;&lt;br&gt;
+Technologies: Hugo, Markdown, SCSS, UX-Design&lt;/p&gt;
+&lt;h3 id=&#34;startup-project---gewoonlezen-nederlands-leren-lezen&#34;&gt;Startup Project - GewoonLezen (Nederlands Leren Lezen)&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Verbeter je taal met plezier: Oefenen lezen en uitspraak!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In ons concept, genaamd GewoonLezen, streven we ernaar om de Nederlandse leesvaardigheid en uitspraak te verbeteren met behulp van een interactieve chat-applicatie ondersteund door kunstmatige intelligentie (AI). De app is bedoeld om gebruikers te helpen bij het leren en verbeteren van hun leesvaardigheid en uitspraak in de Nederlandse taal. Met ons concept kunnen gebruikers teksten lezen, waarbij de app kan detecteren welke woorden ze moeilijk vinden. Op basis van deze informatie genereert de app nieuwe teksten en opdrachten om de gebruiker meer oefening te bieden voor deze moeilijke punten. Op deze manier ontstaat er een feedbackloop die ervoor zorgt dat de leesvaardigheid van de gebruiker wordt verbeterd.&lt;/p&gt;
+&lt;p&gt;De focus van ons product ligt op het oefenen van leesvaardigheid en uitspraak in het Nederlands.&lt;/p&gt;
+&lt;h2 id=&#34;sustainable-development-goal&#34;&gt;Sustainable Development Goal&lt;/h2&gt;
+&lt;p&gt;Ons doel is om bij te dragen aan Sustainable Development Goal 4, Quality Education: Zorg voor inclusief en rechtvaardig onderwijs van hoge kwaliteit en bevorder levenslang leren voor iedereen. Daarbij hebben we target 4.6, dat gericht is op het waarborgen dat alle jongeren en volwassenen geletterdheid en rekenvaardigheid bereiken.&lt;/p&gt;
+&lt;h2 id=&#34;doelgroep&#34;&gt;Doelgroep&lt;/h2&gt;
+&lt;p&gt;De doelgroep van onze app bestaat uit volwassen (nieuwe) Nederlanders die op A1 &amp;amp; A2 niveau de Nederlandse taal leren.&lt;/p&gt;
+&lt;p&gt;Daarnaast richten we ons op deze specifieke subdoelgroepen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Volwassenen die Nederlands leren (als eerste of tweede taal)&lt;/li&gt;
+&lt;li&gt;Immigranten/vluchtelingen&lt;/li&gt;
+&lt;li&gt;Mensen met migratieachtergrond&lt;/li&gt;
+&lt;li&gt;Analfabetische Nederlanders zonder migratieachtergrond&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Uit cijfers blijkt dat ongeveer 2.500.000 Nederlanders moeite hebben met lezen en dat er 250.000 analfabeten zijn in Nederland. Onze app wil bijdragen aan het verbeteren van de leesvaardigheid en uitspraak van deze doelgroepen.&lt;/p&gt;
+&lt;h2 id=&#34;hoofd-features&#34;&gt;Hoofd Features&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Genereren van opdrachten&lt;/li&gt;
+&lt;li&gt;Speech to Text&lt;/li&gt;
+&lt;li&gt;Text to Speech&lt;/li&gt;
+&lt;li&gt;Feedback op fouten&lt;/li&gt;
+&lt;li&gt;Tekst Thema&amp;rsquo;s en Leesniveaus&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;team-languageleap&#34;&gt;Team LanguageLeap:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Max van Schoonderwoerd&lt;/strong&gt; - Designer &amp;amp; Fullstack Developer&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jafir Kluis&lt;/strong&gt; - Researcher &amp;amp; Frontend Developer&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Joey Randsdorp&lt;/strong&gt; - Researcher &amp;amp; Inclusivity Technologist&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tarik Slaghek&lt;/strong&gt; - Entrepreneurial Technologist &amp;amp; Frontend Developer&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>About</title>
+		<link>http://example.org/about/</link>
+		<pubDate>Fri, 18 Aug 2023 18:54:42 +0200</pubDate>
+		
+		<guid>http://example.org/about/</guid>
+		<description>&lt;p&gt;Lucas van der Vegt&lt;br&gt;
+Drechtsteden (Hendrik-Ido-Ambacht)&lt;br&gt;
+&lt;a href=&#34;mailto:lpsvandervegt@gmail.com&#34;&gt;lpsvandervegt@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
