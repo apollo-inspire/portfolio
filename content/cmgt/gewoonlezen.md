@@ -1,15 +1,15 @@
 ---
 title: "GewoonLezen"
-date: 2023-08-18T19:03:52+02:00
+date: 2023-07-01
 draft: false
-tags: ['CMGT', 'Frontend', 'UX-Designr', 'Randstad', 'React', 'Tailwind', 'Github', 'NodeJS', 'AI', 'GPT', 'Figma']
+tags: ['CMGT', 'Frontend', 'UX-Design', 'Randstad', 'React', 'Tailwind', 'Github', 'NodeJS', 'AI', 'GPT', 'Figma']
 ---
-Task: UX-Designer, Wedevelopment & Writing  
-Client/Organisation: Personal  
-Date: 2022 - Now  
+Task: UX-Designer, Frontend Developer, Github Managing  
+Client/Organisation: CMGT  
+Date: 2023 Mar - 2023 Jul
 Location: Randstad  
-Link: https://luukftf.github.io/portfolio-onepager  
-Technologies: Hugo, Markdown, SCSS, UX-Design  
+Link: https://cmgt.hr.nl/projecten/gewoonlezen  
+Technologies: React, Tailwind, Github, NodeJS, AI, GPT, Figma
 
 ### Startup Project - GewoonLezen (Nederlands Leren Lezen)
 
