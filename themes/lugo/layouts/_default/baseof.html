@@ -5,10 +5,10 @@
 	<link rel="canonical" href="{{ .Site.BaseURL }}">
 	<link rel='alternate' type='application/rss+xml' title="{{ .Site.Title }} RSS" href='/index.xml'>
 	<link rel='stylesheet' type='text/css' href='{{ .Site.BaseURL }}style.css'>
-	<!-- <script>console.log('{{ .Site.BaseURL }}style.css')</script>
+	<script>console.log('{{ .Site.BaseURL }}style.css')</script>
 	<script>console.log('/style.css')</script>
 	<script>console.log('{{ .Permalink }}')</script>
-	<script>console.log('{{ .RelPermalink }}')</script> -->
+	<script>console.log('{{ .RelPermalink }}')</script>
 	{{ with .Site.Params.favicon }}<link rel="icon" href="{{ . }}">
 	{{ end -}}
 	<meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}">
