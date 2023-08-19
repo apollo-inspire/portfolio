@@ -1,21 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Lucas` Portfolio Website</title>
-	<link>http://example.org/</link>
+	<link>https://luukftf.github.io/portfolio/</link>
 	<description>Recent content on Lucas` Portfolio Website</description>
 	<generator>Hugo -- gohugo.io</generator>
-	<language>en-us</language>
+	<language>en</language>
 	<lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://luukftf.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>GewoonLezen</title>
-		<link>http://example.org/cmgt/gewoonlezen/</link>
+		<link>https://luukftf.github.io/portfolio/cmgt/gewoonlezen/</link>
 		<pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
 		
-		<guid>http://example.org/cmgt/gewoonlezen/</guid>
+		<guid>https://luukftf.github.io/portfolio/cmgt/gewoonlezen/</guid>
 		<description>&lt;p&gt;Task: UX-Designer, Frontend Developer, Github Managing&lt;br&gt;
 Client/Organisation: CMGT&lt;br&gt;
 Date: 2023 Mar - 2023 Jul
@@ -58,10 +58,10 @@ Technologies: React, Tailwind, Github, NodeJS, AI, GPT, Figma&lt;/p&gt;
 	
 	<item>
 		<title>Strijderdam</title>
-		<link>http://example.org/cmgt/strijderdam/</link>
+		<link>https://luukftf.github.io/portfolio/cmgt/strijderdam/</link>
 		<pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
 		
-		<guid>http://example.org/cmgt/strijderdam/</guid>
+		<guid>https://luukftf.github.io/portfolio/cmgt/strijderdam/</guid>
 		<description>&lt;p&gt;Task: Entrepreneurial Technologist, Github/Scrummaster, Worldbuilding Writer, Level Designer  &lt;br&gt;
 Client/Organisation: CMGT &amp;amp; Lectoraat Hogeschool Leiden (Jan Dirk de Jong) &lt;br&gt;
 Date: 2022 Sept - 2023 Feb&lt;br&gt;
