@@ -2,7 +2,8 @@
 title: "GewoonLezen"
 date: 2023-07-01
 draft: false
-tags: ['CMGT', 'Frontend', 'UX-Design', 'Randstad', 'React', 'Tailwind', 'Github', 'NodeJS', 'AI', 'GPT', 'Figma']
+tags: ['CMGT', 'Frontend', 'UX-Design', 'Randstad', 'React', 'Tailwind', 'Github', 'NodeJS', 'AI', 'GPT', 'Figma', 'Dutch']
+language: 'NL'
 ---
 Task: UX-Designer, Frontend Developer, Github Managing  
 Client/Organisation: CMGT  

@@ -5,7 +5,7 @@
 	<description>Recent content in Figma on Lucas` Portfolio Website</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Fri, 18 Aug 2023 19:03:52 +0200</lastBuildDate>
+	<lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://example.org/tags/figma/index.xml" rel="self" type="application/rss+xml" />
 	
@@ -13,15 +13,15 @@
 	<item>
 		<title>GewoonLezen</title>
 		<link>http://example.org/cmgt/gewoonlezen/</link>
-		<pubDate>Fri, 18 Aug 2023 19:03:52 +0200</pubDate>
+		<pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
 		
 		<guid>http://example.org/cmgt/gewoonlezen/</guid>
-		<description>&lt;p&gt;Task: UX-Designer, Wedevelopment &amp;amp; Writing&lt;br&gt;
-Client/Organisation: Personal&lt;br&gt;
-Date: 2022 - Now&lt;br&gt;
+		<description>&lt;p&gt;Task: UX-Designer, Frontend Developer, Github Managing&lt;br&gt;
+Client/Organisation: CMGT&lt;br&gt;
+Date: 2023 Mar - 2023 Jul
 Location: Randstad&lt;br&gt;
-Link: &lt;a href=&#34;https://luukftf.github.io/portfolio-onepager&#34;&gt;https://luukftf.github.io/portfolio-onepager&lt;/a&gt;&lt;br&gt;
-Technologies: Hugo, Markdown, SCSS, UX-Design&lt;/p&gt;
+Link: &lt;a href=&#34;https://cmgt.hr.nl/projecten/gewoonlezen&#34;&gt;https://cmgt.hr.nl/projecten/gewoonlezen&lt;/a&gt;&lt;br&gt;
+Technologies: React, Tailwind, Github, NodeJS, AI, GPT, Figma&lt;/p&gt;
 &lt;h3 id=&#34;startup-project---gewoonlezen-nederlands-leren-lezen&#34;&gt;Startup Project - GewoonLezen (Nederlands Leren Lezen)&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Verbeter je taal met plezier: Oefenen lezen en uitspraak!&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;In ons concept, genaamd GewoonLezen, streven we ernaar om de Nederlandse leesvaardigheid en uitspraak te verbeteren met behulp van een interactieve chat-applicatie ondersteund door kunstmatige intelligentie (AI). De app is bedoeld om gebruikers te helpen bij het leren en verbeteren van hun leesvaardigheid en uitspraak in de Nederlandse taal. Met ons concept kunnen gebruikers teksten lezen, waarbij de app kan detecteren welke woorden ze moeilijk vinden. Op basis van deze informatie genereert de app nieuwe teksten en opdrachten om de gebruiker meer oefening te bieden voor deze moeilijke punten. Op deze manier ontstaat er een feedbackloop die ervoor zorgt dat de leesvaardigheid van de gebruiker wordt verbeterd.&lt;/p&gt;
@@ -57,14 +57,27 @@ Technologies: Hugo, Markdown, SCSS, UX-Design&lt;/p&gt;
 	</item>
 	
 	<item>
-		<title>About</title>
-		<link>http://example.org/about/</link>
-		<pubDate>Fri, 18 Aug 2023 18:54:42 +0200</pubDate>
+		<title>Strijderdam</title>
+		<link>http://example.org/cmgt/strijderdam/</link>
+		<pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
 		
-		<guid>http://example.org/about/</guid>
-		<description>&lt;p&gt;Lucas van der Vegt&lt;br&gt;
-Drechtsteden (Hendrik-Ido-Ambacht)&lt;br&gt;
-&lt;a href=&#34;mailto:lpsvandervegt@gmail.com&#34;&gt;lpsvandervegt@gmail.com&lt;/a&gt;&lt;/p&gt;
+		<guid>http://example.org/cmgt/strijderdam/</guid>
+		<description>&lt;p&gt;Task: Entrepreneurial Technologist, Github/Scrummaster, Worldbuilding Writer, Level Designer  &lt;br&gt;
+Client/Organisation: CMGT &amp;amp; Lectoraat Hogeschool Leiden (Jan Dirk de Jong) &lt;br&gt;
+Date: 2022 Sept - 2023 Feb&lt;br&gt;
+Location: Randstad&lt;br&gt;
+Link: &lt;a href=&#34;https://cmgt.hr.nl/projecten/strijderdam&#34;&gt;https://cmgt.hr.nl/projecten/strijderdam&lt;/a&gt;, &lt;a href=&#34;https://docs.google.com/document/d/1SouESvgtQAlle31nkC4bPWtvz0YJcqn5d2ZRqpSNQlo/edit?usp=sharing&#34;&gt;https://docs.google.com/document/d/1SouESvgtQAlle31nkC4bPWtvz0YJcqn5d2ZRqpSNQlo/edit?usp=sharing&lt;/a&gt;&lt;br&gt;
+Technologies: Unreal Engine, Figma&lt;/p&gt;
+&lt;h1 id=&#34;agency-project---strijderdam&#34;&gt;Agency Project - Strijderdam&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Om de band tussen jongerenwerkers en jongeren te verbeteren&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Strijderdam is een interactieve ervaring die bedoeld is om jongerenwerkers die met risicojeugd werken te helpen ze beter te begrijpen. Deze ervaring komt in de vorm van een storybased spel waarin je speelt als een jonge inwoner van Strijderdam. Een fictieve stad die losjes gebaseerd is op Rotterdam. Het spel neemt je mee door een dag op zijn school en alle kleine dingen die grote gevolgen kunnen hebben voor zijn leven. Van het worden gestuurd naar de directeur voor het verstoren van de klas tot op het punt staan om lid te worden van een van de vele bendes van Strijderdam. Dit spel is gemaakt in Unreal Engine 5 om ervoor te zorgen dat we de best mogelijke ervaring kunnen geven. Een van onze doelen was om onze hoofdpersonen zo levensecht mogelijk te maken. Om dit te bereiken hebben wij de hulp ingeroepen van Jongerenwerkers die ons hun anekdotes en observaties hebben kunnen vertellen. Dit heeft ervoor gezorgd dat wij een authentieke ervaring hebben kunnen leveren. Wij geloven dat ons spel de band tussen maatschappelijk werkers en de jongeren waarmee ze werken zal versterken en ervoor zal zorgen dat ze elkaar beter zullen begrijpen en doordachte gesprekken kunnen voeren.&lt;/p&gt;
+&lt;p&gt;Team:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Caspar Bosch&lt;/strong&gt; - Designer, Gameplay Engineer, UX Designer&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bilal Hussain&lt;/strong&gt; - Researcher&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Raïesa Ghauharali&lt;/strong&gt; - Researcher&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Thomas Martini&lt;/strong&gt; - Inclusivity Technologist&lt;/li&gt;
+&lt;/ul&gt;
 </description>
 	</item>
 	

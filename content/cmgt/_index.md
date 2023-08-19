@@ -1,5 +1,14 @@
 ---
 title: "CMGT"
-date: 2023-08-18T18:54:42+02:00
+# date: 2023-08-18T18:54:42+02:00
 draft: false
 ---
+# Creative Media & Game Technologies
+
+## Opleidingservaring (CV)
+
+### CMGT
+
+### Havo
+
+## Projects

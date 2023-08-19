@@ -2,6 +2,8 @@
 title: "Strijderdam"
 date: 2023-02-01
 draft: false
+tags: ['CMGT', 'Unreal Engine', 'Figma', 'Github', 'Worldbuilding', 'Level Design', 'Randstad']
+language: 'NL'
 ---
 Task: Entrepreneurial Technologist, Github/Scrummaster, Worldbuilding Writer, Level Designer     
 Client/Organisation: CMGT & Lectoraat Hogeschool Leiden (Jan Dirk de Jong)    
