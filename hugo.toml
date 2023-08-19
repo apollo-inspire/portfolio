@@ -1,5 +1,5 @@
 baseURL = 'https://luukftf.github.io/portfolio/'
-languageCode = 'en-us'
+languageCode = 'en'
 title = 'Lucas` Portfolio Website'
 theme = 'lugo'
 publishDir = 'docs'
