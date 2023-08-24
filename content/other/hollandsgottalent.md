@@ -2,7 +2,7 @@
 title: "Hollands Got Talent"
 date: 2022-08-01
 draft: false
-tags: ['Main Monitor Technician', 'Monitor Technician', 'Re-flax', 'Vocal Popgroup Re-flax', 'RTL', 'Aalsmeer', 'Studio 1']
+tags: ['Main Monitor Technician', 'Monitor Technician', 'Re-flax', 'Vocal Popgroup Re-flax', 'RTL', 'Aalsmeer', 'Studio 1', 'Jeffrey van der Vegt', 'Lars Kramer', 'Tristan Vlok']
 language: 'EN'
 ---
 # Hollands Got Talent

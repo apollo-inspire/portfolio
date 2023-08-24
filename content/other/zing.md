@@ -2,7 +2,7 @@
 title: "Zing!"
 date: 2023-05-01
 draft: false
-tags: ['Backstage Video', 'Monitor Technician Assistent', 'Vocal Popgroup Re-flax', 'Re-flax', 'EO', 'ITV', 'Hilversum', 'Studio 22', 'NPO']
+tags: ['Backstage Video', 'Monitor Technician Assistent', 'Vocal Popgroup Re-flax', 'Re-flax', 'EO', 'ITV', 'Hilversum', 'Studio 22', 'NPO', 'Jeffrey van der Vegt', 'Reijer Tempelaar', 'Lars Kramer', 'Tristan Vlok']
 language: 'EN'
 ---
 
