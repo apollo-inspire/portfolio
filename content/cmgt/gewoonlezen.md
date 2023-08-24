@@ -7,12 +7,12 @@ language: 'NL'
 ---
 Task: UX-Designer, Frontend Developer, Github Managing  
 Client/Organisation: CMGT  
-Date: 2023 Mar - 2023 Jul
+Date: 2023 Mar - 2023 Jul  
 Location: Randstad  
 Link: https://cmgt.hr.nl/projecten/gewoonlezen  
 Technologies: React, Tailwind, Github, NodeJS, AI, GPT, Figma
 
-### Startup Project - GewoonLezen (Nederlands Leren Lezen)
+# Startup Project - GewoonLezen (Nederlands Leren Lezen)
 
 *Verbeter je taal met plezier: Oefenen lezen en uitspraak!*
 

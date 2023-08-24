@@ -5,10 +5,13 @@ draft: false
 ---
 # Creative Media & Game Technologies
 
-## Opleidingservaring (CV)
+## Study
+Bachelor of Applied Science  
+Hogeschool Rotterdam
 
-### CMGT
+Creative Media and Game Technologies   
+(2019 - heden)
 
-### Havo
+## Highlighted Projects
 
-## Projects
+## Latest Projects
