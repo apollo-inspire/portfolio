@@ -2,72 +2,157 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://luukftf.github.io/portfolio/tags/ai/</loc>
+    <loc>/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/cmgt/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/dev/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/dutch/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/english/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/figma/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/markdown/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/nederlands/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/personal/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/dev/portfoliowebsite/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/scss/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/ssg/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/static-site-generator/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/ux-design/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/webdevelopment/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/writing/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/ai/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/tags/cmgt/</loc>
+    <loc>/cmgt/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/cmgt/</loc>
+    <loc>/tags/frontend/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/tags/dutch/</loc>
+    <loc>/cmgt/gewoonlezen/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/tags/figma/</loc>
+    <loc>/tags/github/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/tags/frontend/</loc>
+    <loc>/tags/gpt/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/cmgt/gewoonlezen/</loc>
+    <loc>/tags/nodejs/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/tags/github/</loc>
+    <loc>/tags/randstad/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/tags/gpt/</loc>
+    <loc>/tags/react/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/</loc>
+    <loc>/tags/tailwind/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/tags/nodejs/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <loc>/tags/backstage-video/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/tags/randstad/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <loc>/tags/eo/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/tags/react/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <loc>/tags/hilversum/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/tags/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <loc>/tags/itv/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/tags/tailwind/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <loc>/tags/monitor-technician-assistent/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/tags/ux-design/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <loc>/tags/npo/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/tags/level-design/</loc>
+    <loc>/other/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/re-flax/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/studio-22/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/vocal-popgroup-re-flax/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/other/zing/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/level-design/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/cmgt/strijderdam/</loc>
+    <loc>/cmgt/strijderdam/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/tags/unreal-engine/</loc>
+    <loc>/tags/unreal-engine/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/tags/worldbuilding/</loc>
+    <loc>/tags/worldbuilding/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/about/</loc>
+    <loc>/tags/aalsmeer/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/categories/</loc>
+    <loc>/other/hollandsgottalent/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/dev/</loc>
+    <loc>/tags/main-monitor-technician/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luukftf.github.io/portfolio/video/</loc>
+    <loc>/tags/monitor-technician/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/rtl/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/studio-1/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/about/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/video/</loc>
   </url>
 </urlset>
