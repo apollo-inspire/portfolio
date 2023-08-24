@@ -2,7 +2,7 @@
 title: "Roser Suite"
 date: 2021-01-01
 draft: false
-tags: ['CMGT', 'C#', 'VisualBasic', '.NET', 'Visual Studio Code', 'Documentation', 'Randstad', 'Dordrecht', 'Roser', 'RoserConSys', 'Prometheus Group', 'Dordrecht', 'Junior Software Developer', 'DocFX']
+tags: ['C#', 'VisualBasic', '.NET', 'Visual Studio Code', 'Documentation', 'Randstad', 'Dordrecht', 'Roser', 'RoserConSys', 'Prometheus Group', 'Dordrecht', 'Junior Software Developer', 'DocFX']
 language: 'EN'
 --- 
 

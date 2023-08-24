@@ -19,7 +19,7 @@
 Client/Organisation: Personal&lt;br&gt;
 Date: 2022 - Now&lt;br&gt;
 Location: Randstad&lt;br&gt;
-Link: &lt;a href=&#34;https://luukftf.github.io/portfolio&#34;&gt;https://luukftf.github.io/portfolio&lt;/a&gt;
+Link: &lt;a href=&#34;https://luukftf.github.io/portfolio&#34;&gt;https://luukftf.github.io/portfolio&lt;/a&gt;&lt;br&gt;
 Technologies: Hugo, Static Site Generator, Markdown, SCSS, Figma, UX-Design&lt;/p&gt;
 &lt;h1 id=&#34;portfolio-website&#34;&gt;Portfolio Website&lt;/h1&gt;
 &lt;p&gt;My plan for this is to generate a custom portfolio website using the &amp;ldquo;Hugo&amp;rdquo; Static Site Generator from a markdown file.&lt;/p&gt;
@@ -240,10 +240,10 @@ Technologies: Typescript&lt;/p&gt;
 	
 	<item>
 		<title>Roser Suite</title>
-		<link>https://luukftf.github.io/portfolio/cmgt/rosersuite/</link>
+		<link>https://luukftf.github.io/portfolio/dev/rosersuite/</link>
 		<pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
 		
-		<guid>https://luukftf.github.io/portfolio/cmgt/rosersuite/</guid>
+		<guid>https://luukftf.github.io/portfolio/dev/rosersuite/</guid>
 		<description>&lt;p&gt;Task: Junior Software Developer&lt;br&gt;
 Client/Organisation: RoserConSys / Prometheus Group&lt;br&gt;
 Date: 2020-2021&lt;br&gt;

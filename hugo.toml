@@ -1,4 +1,4 @@
-# baseURL = 'https://luukftf.github.io/portfolio/'
+baseURL = 'https://luukftf.github.io/portfolio/'
 languageCode = 'en'
 title = 'Lucas` Portfolio Website'
 theme = 'lugo'

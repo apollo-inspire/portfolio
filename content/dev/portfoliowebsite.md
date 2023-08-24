@@ -9,7 +9,7 @@ Task: UX-Design, Wedevelopment & Writing
 Client/Organisation: Personal  
 Date: 2022 - Now  
 Location: Randstad  
-Link: https://luukftf.github.io/portfolio
+Link: https://luukftf.github.io/portfolio  
 Technologies: Hugo, Static Site Generator, Markdown, SCSS, Figma, UX-Design  
 
 # Portfolio Website
