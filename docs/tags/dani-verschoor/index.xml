@@ -1,21 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Lucas` Portfolio Website</title>
-	<link>https://luukftf.github.io/portfolio/tags/dani-verschoor/</link>
+	<link>https://apollo-inspire.github.io/portfolio/tags/dani-verschoor/</link>
 	<description>Recent content in Dani Verschoor on Lucas` Portfolio Website</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en</language>
 	<lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://luukftf.github.io/portfolio/tags/dani-verschoor/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://apollo-inspire.github.io/portfolio/tags/dani-verschoor/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>Portfolio Website</title>
-		<link>https://luukftf.github.io/portfolio/dev/portfoliowebsite/</link>
+		<link>https://apollo-inspire.github.io/portfolio/dev/portfoliowebsite/</link>
 		<pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
 		
-		<guid>https://luukftf.github.io/portfolio/dev/portfoliowebsite/</guid>
+		<guid>https://apollo-inspire.github.io/portfolio/dev/portfoliowebsite/</guid>
 		<description>&lt;p&gt;Task: UX-Design, Wedevelopment &amp;amp; Writing&lt;br&gt;
 Client/Organisation: Personal&lt;br&gt;
 Date: 2022 - Now&lt;br&gt;
@@ -30,10 +30,10 @@ Technologies: Hugo, Static Site Generator, Markdown, SCSS, Figma, UX-Design&lt;/
 	
 	<item>
 		<title>GewoonLezen</title>
-		<link>https://luukftf.github.io/portfolio/cmgt/gewoonlezen/</link>
+		<link>https://apollo-inspire.github.io/portfolio/cmgt/gewoonlezen/</link>
 		<pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
 		
-		<guid>https://luukftf.github.io/portfolio/cmgt/gewoonlezen/</guid>
+		<guid>https://apollo-inspire.github.io/portfolio/cmgt/gewoonlezen/</guid>
 		<description>&lt;p&gt;Task: UX-Designer, Frontend Developer, Github Managing&lt;br&gt;
 Client/Organisation: CMGT&lt;br&gt;
 Date: 2023 Mar - 2023 Jul&lt;br&gt;
@@ -76,10 +76,10 @@ Technologies: React, Tailwind, Github, NodeJS, AI, GPT, Figma&lt;/p&gt;
 	
 	<item>
 		<title>Zing!</title>
-		<link>https://luukftf.github.io/portfolio/other/zing/</link>
+		<link>https://apollo-inspire.github.io/portfolio/other/zing/</link>
 		<pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
 		
-		<guid>https://luukftf.github.io/portfolio/other/zing/</guid>
+		<guid>https://apollo-inspire.github.io/portfolio/other/zing/</guid>
 		<description>&lt;p&gt;Task: Backstage Video &amp;amp; Monitor Technician Assistent&lt;br&gt;
 Client/Organisation: Vocal Popgroup Re-flax, EO &amp;amp; ITV
 Date: 2023 May&lt;br&gt;
@@ -98,10 +98,10 @@ Link: &lt;a href=&#34;https://www.eo.nl/programmas/zing-1&#34;&gt;https://www.eo
 	
 	<item>
 		<title>Strijderdam</title>
-		<link>https://luukftf.github.io/portfolio/cmgt/strijderdam/</link>
+		<link>https://apollo-inspire.github.io/portfolio/cmgt/strijderdam/</link>
 		<pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
 		
-		<guid>https://luukftf.github.io/portfolio/cmgt/strijderdam/</guid>
+		<guid>https://apollo-inspire.github.io/portfolio/cmgt/strijderdam/</guid>
 		<description>&lt;p&gt;Task: Entrepreneurial Technologist, Github/Scrummaster, Worldbuilding Writer, Level Designer  &lt;br&gt;
 Client/Organisation: CMGT &amp;amp; Lectoraat Hogeschool Leiden (Jan Dirk de Jong) &lt;br&gt;
 Date: 2022 Sept - 2023 Feb&lt;br&gt;
@@ -123,10 +123,10 @@ Technologies: Unreal Engine, Figma&lt;/p&gt;
 	
 	<item>
 		<title>Hollands Got Talent</title>
-		<link>https://luukftf.github.io/portfolio/other/hollandsgottalent/</link>
+		<link>https://apollo-inspire.github.io/portfolio/other/hollandsgottalent/</link>
 		<pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
 		
-		<guid>https://luukftf.github.io/portfolio/other/hollandsgottalent/</guid>
+		<guid>https://apollo-inspire.github.io/portfolio/other/hollandsgottalent/</guid>
 		<description>&lt;h1 id=&#34;hollands-got-talent&#34;&gt;Hollands Got Talent&lt;/h1&gt;
 &lt;p&gt;Task: Main Monitor Technician &lt;br&gt;
 Client/Organisation: Vocal Popgroup Re-flax &amp;amp; RTL&lt;br&gt;
@@ -144,10 +144,10 @@ Link: &lt;a href=&#34;https://www.gids.tv/video/500714/hollands-got-talent-75-ko
 	
 	<item>
 		<title>CMGT: The Game</title>
-		<link>https://luukftf.github.io/portfolio/cmgt/cmgt-thegame/</link>
+		<link>https://apollo-inspire.github.io/portfolio/cmgt/cmgt-thegame/</link>
 		<pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
 		
-		<guid>https://luukftf.github.io/portfolio/cmgt/cmgt-thegame/</guid>
+		<guid>https://apollo-inspire.github.io/portfolio/cmgt/cmgt-thegame/</guid>
 		<description>&lt;p&gt;Task: Gamedevelopment &amp;amp; Gamedesign&lt;br&gt;
 Client/Organisation: CMGT&lt;br&gt;
 Date: 2021&lt;br&gt;
@@ -165,10 +165,10 @@ Technologies: Typescript, PIXI&lt;/p&gt;
 	
 	<item>
 		<title>Templating Buddy</title>
-		<link>https://luukftf.github.io/portfolio/cmgt/templating-buddy/</link>
+		<link>https://apollo-inspire.github.io/portfolio/cmgt/templating-buddy/</link>
 		<pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
 		
-		<guid>https://luukftf.github.io/portfolio/cmgt/templating-buddy/</guid>
+		<guid>https://apollo-inspire.github.io/portfolio/cmgt/templating-buddy/</guid>
 		<description>&lt;p&gt;Task: Webdeveloper &amp;amp; AI Researcher&lt;br&gt;
 Client/Organisation: CMGT Programmeren 8&lt;br&gt;
 Date: 2022-04-03&lt;br&gt;
@@ -188,10 +188,10 @@ Technologies: AI, Javascript&lt;/p&gt;
 	
 	<item>
 		<title>Target Audience Research</title>
-		<link>https://luukftf.github.io/portfolio/cmgt/targetaudience-research/</link>
+		<link>https://apollo-inspire.github.io/portfolio/cmgt/targetaudience-research/</link>
 		<pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
 		
-		<guid>https://luukftf.github.io/portfolio/cmgt/targetaudience-research/</guid>
+		<guid>https://apollo-inspire.github.io/portfolio/cmgt/targetaudience-research/</guid>
 		<description>&lt;p&gt;Task: User Research, UX-Design&lt;br&gt;
 Client/Organisation: CMGT&lt;br&gt;
 Date: 2022 Jan&lt;br&gt;
@@ -204,10 +204,10 @@ Technologies: Markdown, Google Spreadsheet&lt;/p&gt;
 	
 	<item>
 		<title>Choirapp Alpha</title>
-		<link>https://luukftf.github.io/portfolio/cmgt/choirapp-alpha/</link>
+		<link>https://apollo-inspire.github.io/portfolio/cmgt/choirapp-alpha/</link>
 		<pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
 		
-		<guid>https://luukftf.github.io/portfolio/cmgt/choirapp-alpha/</guid>
+		<guid>https://apollo-inspire.github.io/portfolio/cmgt/choirapp-alpha/</guid>
 		<description>&lt;p&gt;Task: Fullstack Webdeveloper&lt;br&gt;
 Client/Organisation: CMGT, Vocal Popgroup Re-flax&lt;br&gt;
 Date: 2021&lt;br&gt;
@@ -220,10 +220,10 @@ Technologies: Laravel&lt;/p&gt;
 	
 	<item>
 		<title>heyGame</title>
-		<link>https://luukftf.github.io/portfolio/cmgt/heygame/</link>
+		<link>https://apollo-inspire.github.io/portfolio/cmgt/heygame/</link>
 		<pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
 		
-		<guid>https://luukftf.github.io/portfolio/cmgt/heygame/</guid>
+		<guid>https://apollo-inspire.github.io/portfolio/cmgt/heygame/</guid>
 		<description>&lt;p&gt;Task: Gamedeveloper &amp;amp; Gamedesigner&lt;br&gt;
 Client/Organisation: CMGT&lt;br&gt;
 Date: 2021&lt;br&gt;
@@ -241,10 +241,10 @@ Technologies: Typescript&lt;/p&gt;
 	
 	<item>
 		<title>Roser Suite</title>
-		<link>https://luukftf.github.io/portfolio/dev/rosersuite/</link>
+		<link>https://apollo-inspire.github.io/portfolio/dev/rosersuite/</link>
 		<pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
 		
-		<guid>https://luukftf.github.io/portfolio/dev/rosersuite/</guid>
+		<guid>https://apollo-inspire.github.io/portfolio/dev/rosersuite/</guid>
 		<description>&lt;p&gt;Task: Junior Software Developer&lt;br&gt;
 Client/Organisation: RoserConSys / Prometheus Group&lt;br&gt;
 Date: 2020-2021&lt;br&gt;
