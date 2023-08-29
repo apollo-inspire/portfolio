@@ -9,7 +9,7 @@ Task: Gamedevelopment & Gamedesign
 Client/Organisation: CMGT  
 Date: 2021  
 Location: Randstad (Rotterdam & Drechtsteden)
-Link: https://luukftf.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-gaming.html   
+Link: https://apollo-inspire.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-gaming.html   
 Technologies: Typescript, PIXI  
 
 # CMGT: The Game

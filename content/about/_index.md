@@ -11,6 +11,8 @@ lpsvandervegt@gmail.com
 Drechtsteden (Hendrik-Ido-Ambacht)  
 Zuid-Holland, Netherlands  
 2001-12-10  
+[Github](https://github.com/apollo-inspire)
+[LinkedIn](https://www.linkedin.com/in/lucasvandervegt/)
 
 ## Skills
 - Webdevelopment

@@ -59,6 +59,12 @@
     <loc>https://apollo-inspire.github.io/portfolio/tags/writing/</loc>
     <lastmod>2023-08-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://apollo-inspire.github.io/portfolio/dev/curriculum-vitae-iterations/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apollo-inspire.github.io/portfolio/tags/graphical-design/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://apollo-inspire.github.io/portfolio/tags/ai/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -143,6 +149,21 @@
     <loc>https://apollo-inspire.github.io/portfolio/tags/worldbuilding/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://apollo-inspire.github.io/portfolio/dev/choirapp-beta/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apollo-inspire.github.io/portfolio/tags/frontend-developer/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apollo-inspire.github.io/portfolio/tags/fullstack/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apollo-inspire.github.io/portfolio/tags/laravel/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apollo-inspire.github.io/portfolio/tags/vocalgroup-dynamite/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://apollo-inspire.github.io/portfolio/tags/aalsmeer/</loc>
     <lastmod>2022-08-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -206,6 +227,9 @@
     <loc>https://apollo-inspire.github.io/portfolio/tags/.net/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://apollo-inspire.github.io/portfolio/tags/angular/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://apollo-inspire.github.io/portfolio/tags/backend/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -224,7 +248,7 @@
     <loc>https://apollo-inspire.github.io/portfolio/tags/dordrecht/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://apollo-inspire.github.io/portfolio/tags/fullstack/</loc>
+    <loc>https://apollo-inspire.github.io/portfolio/tags/frontend-software-developer/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://apollo-inspire.github.io/portfolio/tags/gamedesigner/</loc>
@@ -242,7 +266,10 @@
     <loc>https://apollo-inspire.github.io/portfolio/tags/junior-software-developer/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://apollo-inspire.github.io/portfolio/tags/laravel/</loc>
+    <loc>https://apollo-inspire.github.io/portfolio/tags/linux/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apollo-inspire.github.io/portfolio/dev/medivus/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://apollo-inspire.github.io/portfolio/tags/prometheus-group/</loc>
@@ -257,11 +284,37 @@
     <loc>https://apollo-inspire.github.io/portfolio/tags/roserconsys/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://apollo-inspire.github.io/portfolio/dev/rosersuite-documentation/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apollo-inspire.github.io/portfolio/tags/rotterdam/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://apollo-inspire.github.io/portfolio/tags/visual-studio-code/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://apollo-inspire.github.io/portfolio/tags/visualbasic/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apollo-inspire.github.io/portfolio/tags/arduino/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apollo-inspire.github.io/portfolio/tags/developer/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apollo-inspire.github.io/portfolio/cmgt/floatsynth/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apollo-inspire.github.io/portfolio/tags/internet-of-things/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apollo-inspire.github.io/portfolio/tags/iot/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apollo-inspire.github.io/portfolio/tags/midi/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apollo-inspire.github.io/portfolio/about/cv/</loc>
   </url><url>
     <loc>https://apollo-inspire.github.io/portfolio/about/</loc>
   </url><url>

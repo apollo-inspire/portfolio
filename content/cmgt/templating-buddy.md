@@ -9,10 +9,10 @@ Task: Webdeveloper & AI Researcher
 Client/Organisation: CMGT Programmeren 8  
 Date: 2022-04-03  
 Location: Randstad (Rotterdam & Drechtsteden)
-Link: [Prototype Link](https://luukftf.github.io/prg08-eindopdracht/)   
+Link: [Prototype Link](https://apollo-inspire.github.io/prg08-eindopdracht/)   
 [Demo Video](https://www.youtube.com/watch?v=ZkRzctgZ3WU&feature=youtu.be)   
-[Repo Link](https://github.com/LuukFTF/prg08-eindopdracht)  
-[Project Overview](https://luukftf.github.io/portfolio-onepager/projects/1/)  
+[Repo Link](https://github.com/apollo-inspire/prg08-eindopdracht)  
+[Project Overview](https://apollo-inspire.github.io/portfolio-onepager/projects/1/)  
 Technologies: AI, Javascript  
 
 # Templating Buddy

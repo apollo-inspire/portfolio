@@ -1,0 +1,366 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Lucas` Portfolio Website</title>
+	<link>https://apollo-inspire.github.io/portfolio/tags/graphical-design/</link>
+	<description>Recent content in Graphical Design on Lucas` Portfolio Website</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en</language>
+	<lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://apollo-inspire.github.io/portfolio/tags/graphical-design/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Portfolio Website</title>
+		<link>https://apollo-inspire.github.io/portfolio/dev/portfoliowebsite/</link>
+		<pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+		
+		<guid>https://apollo-inspire.github.io/portfolio/dev/portfoliowebsite/</guid>
+		<description>&lt;p&gt;Task: UX-Design, Wedevelopment &amp;amp; Writing&lt;br&gt;
+Client/Organisation: Personal&lt;br&gt;
+Date: 2023 - Now&lt;br&gt;
+Location: Randstad&lt;br&gt;
+Link: &lt;a href=&#34;https://apollo-inspire.github.io/portfolio&#34;&gt;https://apollo-inspire.github.io/portfolio&lt;/a&gt; (content), &lt;a href=&#34;https://apollo-inspire.github.io/portfolio-onepager/&#34;&gt;https://apollo-inspire.github.io/portfolio-onepager/&lt;/a&gt; (styling demo)
+Technologies: Hugo, Static Site Generator, Markdown, SCSS, Figma, UX-Design&lt;/p&gt;
+&lt;h1 id=&#34;wip-portfolio-website&#34;&gt;WIP Portfolio Website&lt;/h1&gt;
+&lt;p&gt;My plan for this is to generate a custom portfolio website using the &amp;ldquo;Hugo&amp;rdquo; Static Site Generator from a markdown file.&lt;/p&gt;
+&lt;p&gt;(NL: Mijn plan hiervoor is om met de &amp;ldquo;Hugo&amp;rdquo; Static Site Generator een custom portfolio website te genereren vanuit een markdown bestand)&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>CV Iterations</title>
+		<link>https://apollo-inspire.github.io/portfolio/dev/curriculum-vitae-iterations/</link>
+		<pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+		
+		<guid>https://apollo-inspire.github.io/portfolio/dev/curriculum-vitae-iterations/</guid>
+		<description>&lt;h3 id=&#34;cv-iteraties&#34;&gt;CV Iteraties&lt;/h3&gt;
+&lt;p&gt;Task: UX-Design, Graphical Design&lt;br&gt;
+Client/Organisation: Personal  &lt;br&gt;
+Location: Randstad
+Technologies: Figma&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>GewoonLezen</title>
+		<link>https://apollo-inspire.github.io/portfolio/cmgt/gewoonlezen/</link>
+		<pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+		
+		<guid>https://apollo-inspire.github.io/portfolio/cmgt/gewoonlezen/</guid>
+		<description>&lt;p&gt;Task: UX-Designer, Frontend Developer, Github Managing&lt;br&gt;
+Client/Organisation: CMGT&lt;br&gt;
+Date: 2023 Mar - 2023 Jul&lt;br&gt;
+Location: Randstad&lt;br&gt;
+Link: &lt;a href=&#34;https://cmgt.hr.nl/projecten/gewoonlezen&#34;&gt;https://cmgt.hr.nl/projecten/gewoonlezen&lt;/a&gt;&lt;br&gt;
+Technologies: React, Tailwind, Github, NodeJS, AI, GPT, Figma&lt;/p&gt;
+&lt;h1 id=&#34;startup-project---gewoonlezen-nederlands-leren-lezen&#34;&gt;Startup Project - GewoonLezen (Nederlands Leren Lezen)&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Verbeter je taal met plezier: Oefenen lezen en uitspraak!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In ons concept, genaamd GewoonLezen, streven we ernaar om de Nederlandse leesvaardigheid en uitspraak te verbeteren met behulp van een interactieve chat-applicatie ondersteund door kunstmatige intelligentie (AI). De app is bedoeld om gebruikers te helpen bij het leren en verbeteren van hun leesvaardigheid en uitspraak in de Nederlandse taal. Met ons concept kunnen gebruikers teksten lezen, waarbij de app kan detecteren welke woorden ze moeilijk vinden. Op basis van deze informatie genereert de app nieuwe teksten en opdrachten om de gebruiker meer oefening te bieden voor deze moeilijke punten. Op deze manier ontstaat er een feedbackloop die ervoor zorgt dat de leesvaardigheid van de gebruiker wordt verbeterd.&lt;/p&gt;
+&lt;p&gt;De focus van ons product ligt op het oefenen van leesvaardigheid en uitspraak in het Nederlands.&lt;/p&gt;
+&lt;h2 id=&#34;sustainable-development-goal&#34;&gt;Sustainable Development Goal&lt;/h2&gt;
+&lt;p&gt;Ons doel is om bij te dragen aan Sustainable Development Goal 4, Quality Education: Zorg voor inclusief en rechtvaardig onderwijs van hoge kwaliteit en bevorder levenslang leren voor iedereen. Daarbij hebben we target 4.6, dat gericht is op het waarborgen dat alle jongeren en volwassenen geletterdheid en rekenvaardigheid bereiken.&lt;/p&gt;
+&lt;h2 id=&#34;doelgroep&#34;&gt;Doelgroep&lt;/h2&gt;
+&lt;p&gt;De doelgroep van onze app bestaat uit volwassen (nieuwe) Nederlanders die op A1 &amp;amp; A2 niveau de Nederlandse taal leren.&lt;/p&gt;
+&lt;p&gt;Daarnaast richten we ons op deze specifieke subdoelgroepen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Volwassenen die Nederlands leren (als eerste of tweede taal)&lt;/li&gt;
+&lt;li&gt;Immigranten/vluchtelingen&lt;/li&gt;
+&lt;li&gt;Mensen met migratieachtergrond&lt;/li&gt;
+&lt;li&gt;Analfabetische Nederlanders zonder migratieachtergrond&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Uit cijfers blijkt dat ongeveer 2.500.000 Nederlanders moeite hebben met lezen en dat er 250.000 analfabeten zijn in Nederland. Onze app wil bijdragen aan het verbeteren van de leesvaardigheid en uitspraak van deze doelgroepen.&lt;/p&gt;
+&lt;h2 id=&#34;hoofd-features&#34;&gt;Hoofd Features&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Genereren van opdrachten&lt;/li&gt;
+&lt;li&gt;Speech to Text&lt;/li&gt;
+&lt;li&gt;Text to Speech&lt;/li&gt;
+&lt;li&gt;Feedback op fouten&lt;/li&gt;
+&lt;li&gt;Tekst Thema&amp;rsquo;s en Leesniveaus&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;team-languageleap&#34;&gt;Team LanguageLeap:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Max van Schoonderwoerd&lt;/strong&gt; - Designer &amp;amp; Fullstack Developer&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jafir Kluis&lt;/strong&gt; - Researcher &amp;amp; Frontend Developer&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Joey Randsdorp&lt;/strong&gt; - Researcher &amp;amp; Inclusivity Technologist&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tarik Slaghek&lt;/strong&gt; - Entrepreneurial Technologist &amp;amp; Frontend Developer&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Zing!</title>
+		<link>https://apollo-inspire.github.io/portfolio/other/zing/</link>
+		<pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+		
+		<guid>https://apollo-inspire.github.io/portfolio/other/zing/</guid>
+		<description>&lt;p&gt;Task: Backstage Video &amp;amp; Monitor Technician Assistent&lt;br&gt;
+Client/Organisation: Vocal Popgroup Re-flax, EO &amp;amp; ITV
+Date: 2023 May&lt;br&gt;
+Location: Hilversum, Studio 22&lt;br&gt;
+Link: &lt;a href=&#34;https://www.eo.nl/programmas/zing-1&#34;&gt;https://www.eo.nl/programmas/zing-1&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;zing&#34;&gt;Zing!&lt;/h1&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Jeffrey van der Vegt&lt;/strong&gt; - Songcoach&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reijer Tempelaar&lt;/strong&gt; - Main Monitor Technician&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lars Kramer&lt;/strong&gt; - Monitor Technician Assistent&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tristan Vlok&lt;/strong&gt; - Monitor Technician Assistent&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Strijderdam</title>
+		<link>https://apollo-inspire.github.io/portfolio/cmgt/strijderdam/</link>
+		<pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+		
+		<guid>https://apollo-inspire.github.io/portfolio/cmgt/strijderdam/</guid>
+		<description>&lt;p&gt;Task: Entrepreneurial Technologist, Github/Scrummaster, Worldbuilding Writer, Level Designer  &lt;br&gt;
+Client/Organisation: CMGT &amp;amp; Lectoraat Hogeschool Leiden (Jan Dirk de Jong) &lt;br&gt;
+Date: 2022 Sept - 2023 Feb&lt;br&gt;
+Location: Randstad&lt;br&gt;
+Link: &lt;a href=&#34;https://cmgt.hr.nl/projecten/strijderdam&#34;&gt;https://cmgt.hr.nl/projecten/strijderdam&lt;/a&gt;, &lt;a href=&#34;https://docs.google.com/document/d/1SouESvgtQAlle31nkC4bPWtvz0YJcqn5d2ZRqpSNQlo/edit?usp=sharing&#34;&gt;https://docs.google.com/document/d/1SouESvgtQAlle31nkC4bPWtvz0YJcqn5d2ZRqpSNQlo/edit?usp=sharing&lt;/a&gt;&lt;br&gt;
+Technologies: Unreal Engine, Figma&lt;/p&gt;
+&lt;h1 id=&#34;agency-project---strijderdam&#34;&gt;Agency Project - Strijderdam&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Om de band tussen jongerenwerkers en jongeren te verbeteren&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Strijderdam is een interactieve ervaring die bedoeld is om jongerenwerkers die met risicojeugd werken te helpen ze beter te begrijpen. Deze ervaring komt in de vorm van een storybased spel waarin je speelt als een jonge inwoner van Strijderdam. Een fictieve stad die losjes gebaseerd is op Rotterdam. Het spel neemt je mee door een dag op zijn school en alle kleine dingen die grote gevolgen kunnen hebben voor zijn leven. Van het worden gestuurd naar de directeur voor het verstoren van de klas tot op het punt staan om lid te worden van een van de vele bendes van Strijderdam. Dit spel is gemaakt in Unreal Engine 5 om ervoor te zorgen dat we de best mogelijke ervaring kunnen geven. Een van onze doelen was om onze hoofdpersonen zo levensecht mogelijk te maken. Om dit te bereiken hebben wij de hulp ingeroepen van Jongerenwerkers die ons hun anekdotes en observaties hebben kunnen vertellen. Dit heeft ervoor gezorgd dat wij een authentieke ervaring hebben kunnen leveren. Wij geloven dat ons spel de band tussen maatschappelijk werkers en de jongeren waarmee ze werken zal versterken en ervoor zal zorgen dat ze elkaar beter zullen begrijpen en doordachte gesprekken kunnen voeren.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Caspar Bosch&lt;/strong&gt; - Designer, Gameplay Engineer, UX Designer&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bilal Hussain&lt;/strong&gt; - Researcher&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Raïesa Ghauharali&lt;/strong&gt; - Researcher&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Thomas Martini&lt;/strong&gt; - Inclusivity Technologist&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Choirapp Beta</title>
+		<link>https://apollo-inspire.github.io/portfolio/dev/choirapp-beta/</link>
+		<pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+		
+		<guid>https://apollo-inspire.github.io/portfolio/dev/choirapp-beta/</guid>
+		<description>&lt;h1 id=&#34;wip-choirapp-beta&#34;&gt;WIP Choirapp Beta&lt;/h1&gt;
+&lt;p&gt;Task: UX-Designer, Frontend Developer, Github Managing&lt;br&gt;
+Client/Organisation: Vocal Popgroup Re-flax, Vocalgroup Dynamite&lt;br&gt;
+Date: 2022 - Now&lt;br&gt;
+Location: Drechtsteden&lt;br&gt;
+Link: TBA&lt;br&gt;
+Technologies: React, SCSS, Github, UX-Design&lt;/p&gt;
+&lt;p&gt;WORK IN PROGRESS&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mark Hendrikx&lt;/strong&gt; - Backend Developer&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Hollands Got Talent</title>
+		<link>https://apollo-inspire.github.io/portfolio/other/hollandsgottalent/</link>
+		<pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+		
+		<guid>https://apollo-inspire.github.io/portfolio/other/hollandsgottalent/</guid>
+		<description>&lt;h1 id=&#34;hollands-got-talent&#34;&gt;Hollands Got Talent&lt;/h1&gt;
+&lt;p&gt;Task: Main Monitor Technician &lt;br&gt;
+Client/Organisation: Vocal Popgroup Re-flax &amp;amp; RTL&lt;br&gt;
+Date: 2022 Aug &lt;br&gt;
+Location: Aalsmeer, Studio 1&lt;br&gt;
+Link: &lt;a href=&#34;https://www.gids.tv/video/500714/hollands-got-talent-75-koppige-vocal-popgroup-re-flax-straalt-tijdens-auditie-video&#34;&gt;https://www.gids.tv/video/500714/hollands-got-talent-75-koppige-vocal-popgroup-re-flax-straalt-tijdens-auditie-video&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Jeffrey van der Vegt&lt;/strong&gt; - Songcoach&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lars Kramer&lt;/strong&gt; - Monitor Technician Assistent&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tristan Vlok&lt;/strong&gt; - Monitor Technician Assistent&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>CMGT: The Game</title>
+		<link>https://apollo-inspire.github.io/portfolio/cmgt/cmgt-thegame/</link>
+		<pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+		
+		<guid>https://apollo-inspire.github.io/portfolio/cmgt/cmgt-thegame/</guid>
+		<description>&lt;p&gt;Task: Gamedevelopment &amp;amp; Gamedesign&lt;br&gt;
+Client/Organisation: CMGT&lt;br&gt;
+Date: 2021&lt;br&gt;
+Location: Randstad (Rotterdam &amp;amp; Drechtsteden)
+Link: &lt;a href=&#34;https://apollo-inspire.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-gaming.html&#34;&gt;https://apollo-inspire.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-gaming.html&lt;/a&gt;&lt;br&gt;
+Technologies: Typescript, PIXI&lt;/p&gt;
+&lt;h1 id=&#34;cmgt-the-game&#34;&gt;CMGT: The Game&lt;/h1&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dani Verschoor&lt;/strong&gt; - Gamedeveloper&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zino Schubert&lt;/strong&gt; - Gamedesigner&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Templating Buddy</title>
+		<link>https://apollo-inspire.github.io/portfolio/cmgt/templating-buddy/</link>
+		<pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
+		
+		<guid>https://apollo-inspire.github.io/portfolio/cmgt/templating-buddy/</guid>
+		<description>&lt;p&gt;Task: Webdeveloper &amp;amp; AI Researcher&lt;br&gt;
+Client/Organisation: CMGT Programmeren 8&lt;br&gt;
+Date: 2022-04-03&lt;br&gt;
+Location: Randstad (Rotterdam &amp;amp; Drechtsteden)
+Link: &lt;a href=&#34;https://apollo-inspire.github.io/prg08-eindopdracht/&#34;&gt;Prototype Link&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=ZkRzctgZ3WU&amp;amp;feature=youtu.be&#34;&gt;Demo Video&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://github.com/apollo-inspire/prg08-eindopdracht&#34;&gt;Repo Link&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://apollo-inspire.github.io/portfolio-onepager/projects/1/&#34;&gt;Project Overview&lt;/a&gt;&lt;br&gt;
+Technologies: AI, Javascript&lt;/p&gt;
+&lt;h1 id=&#34;templating-buddy&#34;&gt;Templating Buddy&lt;/h1&gt;
+&lt;p&gt;You know when you have to add calendar items for work/school. You have to enter a lot of information so that everyone has all the details, which takes way too much time and effort.&lt;/p&gt;
+&lt;p&gt;As a solution, we have: Templating Buddy. This AI helps you with repetitive, boring, but important tasks.&lt;/p&gt;
+&lt;p&gt;In an organization with volunteers, the workload relies entirely on people&amp;rsquo;s free time and requires a lot of individual initiative. To make this as smooth as possible, everyone should be able to accomplish a lot with minimal effort.&lt;/p&gt;
+&lt;p&gt;When entering the data, real-time predictions are made in the empty fields. Additionally, the color of the item changes based on its label.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Target Audience Research</title>
+		<link>https://apollo-inspire.github.io/portfolio/cmgt/targetaudience-research/</link>
+		<pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+		
+		<guid>https://apollo-inspire.github.io/portfolio/cmgt/targetaudience-research/</guid>
+		<description>&lt;p&gt;Task: User Research, UX-Design&lt;br&gt;
+Client/Organisation: CMGT&lt;br&gt;
+Date: 2022 Jan&lt;br&gt;
+Location: Randstad (Rotterdam &amp;amp; Drechtsteden)
+Link: &lt;a href=&#34;https://apollo-inspire.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-doelgroep.html&#34;&gt;https://apollo-inspire.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-doelgroep.html&lt;/a&gt;, &lt;a href=&#34;https://apollo-inspire.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-interactie_2.html&#34;&gt;https://apollo-inspire.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-interactie_2.html&lt;/a&gt;&lt;br&gt;
+Technologies: Markdown, Google Spreadsheet&lt;/p&gt;
+&lt;h1 id=&#34;target-audience-research&#34;&gt;Target Audience Research&lt;/h1&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Choirapp Alpha</title>
+		<link>https://apollo-inspire.github.io/portfolio/cmgt/choirapp-alpha/</link>
+		<pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+		
+		<guid>https://apollo-inspire.github.io/portfolio/cmgt/choirapp-alpha/</guid>
+		<description>&lt;p&gt;Task: Fullstack Webdeveloper&lt;br&gt;
+Client/Organisation: CMGT, Vocal Popgroup Re-flax&lt;br&gt;
+Date: 2021&lt;br&gt;
+Location: Randstad (Rotterdam &amp;amp; Drechtsteden)
+Link: &lt;a href=&#34;https://apollo-inspire.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-backend.html&#34;&gt;https://apollo-inspire.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-backend.html&lt;/a&gt;  &lt;br&gt;
+Technologies: Laravel&lt;/p&gt;
+&lt;h1 id=&#34;choirapp-alpha&#34;&gt;Choirapp Alpha&lt;/h1&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>heyGame</title>
+		<link>https://apollo-inspire.github.io/portfolio/cmgt/heygame/</link>
+		<pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+		
+		<guid>https://apollo-inspire.github.io/portfolio/cmgt/heygame/</guid>
+		<description>&lt;p&gt;Task: Gamedeveloper &amp;amp; Gamedesigner&lt;br&gt;
+Client/Organisation: CMGT&lt;br&gt;
+Date: 2021&lt;br&gt;
+Location: Randstad (Rotterdam-Drechtsteden)
+Link: &lt;a href=&#34;https://github.com/apollo-inspire/heyGame&#34;&gt;https://github.com/apollo-inspire/heyGame&lt;/a&gt;&lt;br&gt;
+Technologies: Typescript&lt;/p&gt;
+&lt;p&gt;Team:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dani Verschoor&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jay&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kevin&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Medivus</title>
+		<link>https://apollo-inspire.github.io/portfolio/dev/medivus/</link>
+		<pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+		
+		<guid>https://apollo-inspire.github.io/portfolio/dev/medivus/</guid>
+		<description>&lt;p&gt;Task: Frontend Software Developer&lt;br&gt;
+Client/Organisation: Vorteq Industries, Medivus&lt;br&gt;
+Date: 2021&lt;br&gt;
+Location: Rotterdam&lt;br&gt;
+Link: &lt;a href=&#34;https://www.medivus.nl/&#34;&gt;https://www.medivus.nl/&lt;/a&gt;&lt;br&gt;
+Technologies: Angular, Figma, NodeJS, Linux&lt;/p&gt;
+&lt;h1 id=&#34;medivus&#34;&gt;Medivus&lt;/h1&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Vorteq Development Team&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Roser Suite</title>
+		<link>https://apollo-inspire.github.io/portfolio/dev/rosersuite/</link>
+		<pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+		
+		<guid>https://apollo-inspire.github.io/portfolio/dev/rosersuite/</guid>
+		<description>&lt;p&gt;Task: Junior Software Developer&lt;br&gt;
+Client/Organisation: RoserConSys / Prometheus Group&lt;br&gt;
+Date: 2020-2021&lt;br&gt;
+Location: Dordrecht&lt;br&gt;
+Link: &lt;a href=&#34;https://info.prometheusgroup.com/hubfs/Updated%20Datasheets/STO/Prometheus%20Group_Datasheet_Roser%20Suite_STO.pdf&#34;&gt;https://info.prometheusgroup.com/hubfs/Updated%20Datasheets/STO/Prometheus%20Group_Datasheet_Roser%20Suite_STO.pdf&lt;/a&gt;&lt;br&gt;
+Technologies: C#, VisualBasic, .NET, Visual Studio Code&lt;/p&gt;
+&lt;h1 id=&#34;rosersuite&#34;&gt;RoserSuite&lt;/h1&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;RoserSuite Incident Team&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>RoserSuite Documentation</title>
+		<link>https://apollo-inspire.github.io/portfolio/dev/rosersuite-documentation/</link>
+		<pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+		
+		<guid>https://apollo-inspire.github.io/portfolio/dev/rosersuite-documentation/</guid>
+		<description>&lt;p&gt;Task: Junior Software Developer&lt;br&gt;
+Client/Organisation: RoserConSys / Prometheus Group&lt;br&gt;
+Date: 2020-2021&lt;br&gt;
+Location: Dordrecht&lt;br&gt;
+Link: &lt;a href=&#34;https://info.prometheusgroup.com/hubfs/Updated%20Datasheets/STO/Prometheus%20Group_Datasheet_Roser%20Suite_STO.pdf&#34;&gt;https://info.prometheusgroup.com/hubfs/Updated%20Datasheets/STO/Prometheus%20Group_Datasheet_Roser%20Suite_STO.pdf&lt;/a&gt;&lt;br&gt;
+Technologies: DocFX&lt;/p&gt;
+&lt;h1 id=&#34;rosersuite-documentation&#34;&gt;RoserSuite Documentation&lt;/h1&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;RoserSuite Incident Team&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Floatsynth</title>
+		<link>https://apollo-inspire.github.io/portfolio/cmgt/floatsynth/</link>
+		<pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+		
+		<guid>https://apollo-inspire.github.io/portfolio/cmgt/floatsynth/</guid>
+		<description>&lt;h3 id=&#34;floatsynth&#34;&gt;Floatsynth&lt;/h3&gt;
+&lt;p&gt;Task: IoT Developer&lt;br&gt;
+Client/Organisation: CMGT&lt;br&gt;
+Date: 2020&lt;br&gt;
+Location: Randstad
+Link: &lt;a href=&#34;https://apollo-inspire.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-ironman.html&#34;&gt;https://apollo-inspire.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-ironman.html&lt;/a&gt;&lt;br&gt;
+Technologies: Arduino, Midi, Internet of Things&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title></title>
+		<link>https://apollo-inspire.github.io/portfolio/about/cv/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>https://apollo-inspire.github.io/portfolio/about/cv/</guid>
+		<description>&lt;h1 id=&#34;cv&#34;&gt;CV&lt;/h1&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>

@@ -7,9 +7,9 @@ language: 'EN'
 ---
 Task: UX-Design, Wedevelopment & Writing  
 Client/Organisation: Personal  
-Date: 2022 - Now  
+Date: 2023 - Now  
 Location: Randstad  
-Link: https://luukftf.github.io/portfolio (content), https://luukftf.github.io/portfolio-onepager/ (styling demo)
+Link: https://apollo-inspire.github.io/portfolio (content), https://apollo-inspire.github.io/portfolio-onepager/ (styling demo)
 Technologies: Hugo, Static Site Generator, Markdown, SCSS, Figma, UX-Design  
 
 # WIP Portfolio Website

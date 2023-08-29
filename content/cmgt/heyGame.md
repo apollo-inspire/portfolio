@@ -9,7 +9,7 @@ Task: Gamedeveloper & Gamedesigner
 Client/Organisation: CMGT  
 Date: 2021  
 Location: Randstad (Rotterdam-Drechtsteden)
-Link: https://github.com/LuukFTF/heyGame  
+Link: https://github.com/apollo-inspire/heyGame  
 Technologies: Typescript  
 
 Team:

@@ -10,7 +10,7 @@ Task: Fullstack Webdeveloper
 Client/Organisation: CMGT, Vocal Popgroup Re-flax  
 Date: 2021  
 Location: Randstad (Rotterdam & Drechtsteden)
-Link: https://luukftf.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-backend.html     
+Link: https://apollo-inspire.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-backend.html     
 Technologies: Laravel  
 
 # Choirapp Alpha
