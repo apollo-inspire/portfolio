@@ -5,10 +5,31 @@
 	<description>Recent content on Lucas` Portfolio Website</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en</language>
-	<lastBuildDate>Mon, 21 Aug 2023 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://apollo-inspire.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>Bridge The Gap - Landingspage</title>
+		<link>https://apollo-inspire.github.io/portfolio/dev/bridgethegap/</link>
+		<pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+		
+		<guid>https://apollo-inspire.github.io/portfolio/dev/bridgethegap/</guid>
+		<description>&lt;p&gt;Task: Frontend Software Developer &lt;br&gt;
+Client/Organisation: WADM, Home.Earth (+ Technical University of Denmark, Delft Technical University, Aase og Ejnar Danielsens Fond)&lt;br&gt;
+Date: 2023 &lt;br&gt;
+Location: Europe (+ Netherlands, Randstad, Rotterdam/Barendrecht &amp;amp; Denmark, Copenhagen) &lt;br&gt;
+Link: &lt;a href=&#34;https://bridgethegap.info/&#34;&gt;https://bridgethegap.info/&lt;/a&gt;&lt;br&gt;
+Technologies: Tailwind, Alpinejs, Handlebars, Statamic, SCSS, Javascript&lt;/p&gt;
+&lt;h1 id=&#34;bridge-the-gap---landingspage&#34;&gt;Bridge The Gap - Landingspage&lt;/h1&gt;
+&lt;p&gt;Contributed with some components to the landing page.&lt;/p&gt;
+&lt;h2 id=&#34;team&#34;&gt;Team&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;WADM Digital Team&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
 	
 	<item>
 		<title>Portfolio Website</title>
@@ -19,7 +40,6 @@
 		<description>&lt;p&gt;Task: UX-Design, Wedevelopment &amp;amp; Writing&lt;br&gt;
 Client/Organisation: Personal&lt;br&gt;
 Date: 2023 - Now&lt;br&gt;
-Location: Randstad&lt;br&gt;
 Link: &lt;a href=&#34;https://apollo-inspire.github.io/portfolio&#34;&gt;https://apollo-inspire.github.io/portfolio&lt;/a&gt; (content), &lt;a href=&#34;https://apollo-inspire.github.io/portfolio-onepager/&#34;&gt;https://apollo-inspire.github.io/portfolio-onepager/&lt;/a&gt; (styling demo)
 Technologies: Hugo, Static Site Generator, Markdown, SCSS, Figma, UX-Design&lt;/p&gt;
 &lt;h1 id=&#34;wip-portfolio-website&#34;&gt;WIP Portfolio Website&lt;/h1&gt;
@@ -235,6 +255,23 @@ Location: Randstad (Rotterdam &amp;amp; Drechtsteden)
 Link: &lt;a href=&#34;https://apollo-inspire.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-doelgroep.html&#34;&gt;https://apollo-inspire.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-doelgroep.html&lt;/a&gt;, &lt;a href=&#34;https://apollo-inspire.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-interactie_2.html&#34;&gt;https://apollo-inspire.github.io/docfx-portfolio/main/hr-cmgt/buildingblocks/bb-interactie_2.html&lt;/a&gt;&lt;br&gt;
 Technologies: Markdown, Google Spreadsheet&lt;/p&gt;
 &lt;h1 id=&#34;target-audience-research&#34;&gt;Target Audience Research&lt;/h1&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>CMGT Dashboard</title>
+		<link>https://apollo-inspire.github.io/portfolio/cmgt/dashboard/</link>
+		<pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+		
+		<guid>https://apollo-inspire.github.io/portfolio/cmgt/dashboard/</guid>
+		<description>&lt;p&gt;Task: Webdeveloper
+Client/Organisation: CMGT&lt;br&gt;
+Date: 2021 Sept - now
+Location: Randstad&lt;br&gt;
+Link: &lt;a href=&#34;https://github.com/mostboringdashboard/mostboringdashboard.github.io&#34;&gt;https://github.com/mostboringdashboard/mostboringdashboard.github.io&lt;/a&gt;&lt;br&gt;
+Technologies: HTML, CSS, Javascript, Github, UI&lt;/p&gt;
+&lt;h1 id=&#34;the-most-boring-dashboard-cmgt&#34;&gt;The Most Boring Dashboard (CMGT)&lt;/h1&gt;
+&lt;p&gt;Hogeschool Rotterdam CMGT Links Dashboard&lt;/p&gt;
 </description>
 	</item>
 	

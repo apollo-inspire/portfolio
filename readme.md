@@ -9,5 +9,5 @@ hugo server --noHTTPCache
 ```
 
 ```toml
-baseURL = 'https://luukftf.github.io/portfolio/'
+baseURL = 'https://apollo-inspire.github.io/portfolio/'
 ```
