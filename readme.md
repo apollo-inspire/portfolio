@@ -8,6 +8,7 @@ start server
 hugo server --noHTTPCache
 ```
 
+hugo.toml
 ```toml
-baseURL = 'https://luukftf.github.io/portfolio/'
+baseURL = 'https://apollo-inspire.github.io/portfolio/'
 ```
