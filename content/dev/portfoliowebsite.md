@@ -8,7 +8,6 @@ language: 'EN'
 Task: UX-Design, Wedevelopment & Writing  
 Client/Organisation: Personal  
 Date: 2023 - Now  
-Location: Randstad  
 Link: https://apollo-inspire.github.io/portfolio (content), https://apollo-inspire.github.io/portfolio-onepager/ (styling demo)
 Technologies: Hugo, Static Site Generator, Markdown, SCSS, Figma, UX-Design  
 
