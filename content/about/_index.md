@@ -50,6 +50,8 @@ Learning:
 - Hugo
 
 Worked with in the past:
+- Unity
+- Asprite
 - Laravel
 - PHP
 - SQL
@@ -74,8 +76,8 @@ Nederlands:
 - Gespreksvoering: Vloeiend
 
 Deutsch:
-- Lesen/Schreiben: A1
-- Gesprächsebene: A1
+- Lesen/Schreiben: A2
+- Gesprächsebene: A2
 
 ## Opleidingservaring
 
@@ -83,7 +85,13 @@ Deutsch:
 Hogeschool Rotterdam
 
 Creative Media and Game Technologies     
-(2019 - heden) [Propedeuse gehaald]
+(2026) [Propedeuse gehaald]
+
+### Minor
+Hogeschool Rotterdam
+
+Game Design & Development
+(2025)
 
 ### Havo
 Walburg College 
@@ -98,13 +106,13 @@ Havo Diploma, Natuur & Gezondheid
 Hendrik-Ido-Ambacht  
 
 Technische Commissie, Video Productie & Social Media Management  
-2017 - heden (6+ jaar)  
+2017 - heden (8+ jaar)  
 
 ### Popgroup Dynamite
 Hendrik-Ido-Ambacht
 
 Technische Commissie    
-2022 - heden (1+ jaar)  
+2022 - heden (3+ jaar)  
 
 ## Hobby's & Personal Life
 
