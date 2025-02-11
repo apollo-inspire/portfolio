@@ -9,7 +9,7 @@ Task: Game Designer (UI/UX-Design, Level Design & Quality Assurance)
 Client/Organisation: CMGT, Minor: Game Design & Development 
 Date: 2024 Oct - 2025 Feb  
 Location: Randstad  
-Link: https://impress.games/press-kit/elevated-ants/respaced, https://store.steampowered.com/app/3380820/ReSpaced/  
+Link: https://store.steampowered.com/app/3380820/ReSpaced/, https://impress.games/press-kit/elevated-ants/respaced
 Technologies: Figma, Unity, Probuilder
 
 # Respaced - Unity 3D Game
